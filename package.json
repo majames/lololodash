@@ -1,0 +1,14 @@
+{
+  "name": "lololodash",
+  "version": "1.0.0",
+  "description": "my solutions to the lodash node school tutorials",
+  "main": "tut01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael James",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^3.10.1"
+  }
+}
